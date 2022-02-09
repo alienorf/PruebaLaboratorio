@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 2px yellow;
+    color: blue;
+    font-weight: bold;
+
+}
+
+legend{
+    text-align: left;
+    color: white;
+    background-color: red;
+}
+
+fieldset{
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+input{
+    background-color: yellow;
+    border-radius: 5px 5px;
+    border-color:white;
+    border-width: 1px;
+    }
+
+.radiobutton{
+    accent-color: black;
+}
+
+.pinkbutton{
+    background-color: pink;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.whitedate{
+    background-color: white;
+}
+
+.alertacorrecta{
+    color: green;
+    font-weight: bold ;
+}
+
+.alertaincorrecta{
+    color: red;
+    font-weight: bold;
+}
+
+.hidetext{
+    display: none;
+}
